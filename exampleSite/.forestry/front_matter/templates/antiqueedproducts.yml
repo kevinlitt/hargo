@@ -31,3 +31,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- exampleSite/content/products/antiqueed/test-item-1.md
