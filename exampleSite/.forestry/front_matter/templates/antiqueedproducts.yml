@@ -11,3 +11,23 @@ fields:
 - type: text
   name: description
   label: description
+- name: price
+  type: number
+  label: Price
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: compare_at
+  type: number
+  label: Compare At
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
